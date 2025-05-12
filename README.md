@@ -9,3 +9,8 @@
 ## What I learned from Terminal Command Cheat Sheet article?
 
 ### From this article, I learned the basic terminal commands that help navigate and manage the filesystem. Commands like pwd show my current directory, ls lists contents, cd changes directories, and mkdir or touch let me create folders and files. I also learned how the filesystem is structured like a tree and how helper commands like clear, tab, and the arrow keys improve efficiency when using the terminal.
+
+
+## A screenshot for the used terminal command
+
+![terminalcomand](Capture1.JPG)
