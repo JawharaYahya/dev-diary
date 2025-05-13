@@ -6,6 +6,17 @@
 
 ### This article taught me that being a great developer is not just about coding skills but also about having the right mindset. I learned the importance of lifelong learning, breaking problems into smaller pieces, and debugging like a detective. It also highlighted the value of a growth mindset, focusing on user value, writing simple and maintainable code, and being open to feedback and collaboration. Most importantly, it reminded me that progress matters more than perfection, and that the mindset I bring to development will shape my long-term success.
 
+### Top Lessons from "The Good Developer Mindset"
+
+1. Lifelong learning is essential  
+2. Break big problems into smaller tasks  
+3. Debug methodically like a detective  
+4. Maintain a growth mindset  
+5. Focus on user value, not just clean code  
+6. Simplicity and maintainability matter  
+7. Collaborate and seek feedback  
+8. Aim for progress, not perfection
+
 ## *What I learned from Terminal Command Cheat Sheet article?*
 
 ### From this article, I learned the basic terminal commands that help navigate and manage the filesystem. Commands like pwd show my current directory, ls lists contents, cd changes directories, and mkdir or touch let me create folders and files. I also learned how the filesystem is structured like a tree and how helper commands like clear, tab, and the arrow keys improve efficiency when using the terminal.
